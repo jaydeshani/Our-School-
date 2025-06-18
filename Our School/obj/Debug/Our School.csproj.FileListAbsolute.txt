@@ -1,0 +1,236 @@
+C:\Vivek\Our School\bin\Our School.dll.config
+C:\Vivek\Our School\bin\Our School.dll
+C:\Vivek\Our School\bin\Our School.pdb
+C:\Vivek\Our School\bin\roslyn\csc.exe
+C:\Vivek\Our School\bin\roslyn\csc.exe.config
+C:\Vivek\Our School\bin\roslyn\csc.rsp
+C:\Vivek\Our School\bin\roslyn\csi.exe
+C:\Vivek\Our School\bin\roslyn\csi.exe.config
+C:\Vivek\Our School\bin\roslyn\csi.rsp
+C:\Vivek\Our School\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Vivek\Our School\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Vivek\Our School\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Vivek\Our School\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Vivek\Our School\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Vivek\Our School\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Vivek\Our School\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Vivek\Our School\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Vivek\Our School\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Vivek\Our School\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Vivek\Our School\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Vivek\Our School\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Vivek\Our School\bin\roslyn\System.AppContext.dll
+C:\Vivek\Our School\bin\roslyn\System.Collections.Immutable.dll
+C:\Vivek\Our School\bin\roslyn\System.Console.dll
+C:\Vivek\Our School\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Vivek\Our School\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Vivek\Our School\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Vivek\Our School\bin\roslyn\System.Globalization.Calendars.dll
+C:\Vivek\Our School\bin\roslyn\System.IO.Compression.dll
+C:\Vivek\Our School\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Vivek\Our School\bin\roslyn\System.IO.FileSystem.dll
+C:\Vivek\Our School\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Vivek\Our School\bin\roslyn\System.Net.Http.dll
+C:\Vivek\Our School\bin\roslyn\System.Net.Sockets.dll
+C:\Vivek\Our School\bin\roslyn\System.Reflection.Metadata.dll
+C:\Vivek\Our School\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Vivek\Our School\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Vivek\Our School\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Vivek\Our School\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Vivek\Our School\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Vivek\Our School\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Vivek\Our School\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Vivek\Our School\bin\roslyn\System.ValueTuple.dll
+C:\Vivek\Our School\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Vivek\Our School\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Vivek\Our School\bin\roslyn\System.Xml.XPath.dll
+C:\Vivek\Our School\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Vivek\Our School\bin\roslyn\vbc.exe
+C:\Vivek\Our School\bin\roslyn\vbc.exe.config
+C:\Vivek\Our School\bin\roslyn\vbc.rsp
+C:\Vivek\Our School\bin\roslyn\VBCSCompiler.exe
+C:\Vivek\Our School\bin\roslyn\VBCSCompiler.exe.config
+C:\Vivek\Our School\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Vivek\Our School\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Vivek\Our School\obj\Debug\Our School.csproj.AssemblyReference.cache
+C:\Vivek\Our School\obj\Debug\Our School.csproj.CoreCompileInputs.cache
+C:\Vivek\Our School\obj\Debug\Our School.csproj.CopyComplete
+C:\Vivek\Our School\obj\Debug\Our School.dll
+C:\Vivek\Our School\obj\Debug\Our School.pdb
+C:\jay\Our School\bin\Our School.dll.config
+C:\jay\Our School\bin\Our School.dll
+C:\jay\Our School\bin\Our School.pdb
+C:\jay\Our School\bin\roslyn\csc.exe
+C:\jay\Our School\bin\roslyn\csc.exe.config
+C:\jay\Our School\bin\roslyn\csc.rsp
+C:\jay\Our School\bin\roslyn\csi.exe
+C:\jay\Our School\bin\roslyn\csi.exe.config
+C:\jay\Our School\bin\roslyn\csi.rsp
+C:\jay\Our School\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\jay\Our School\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\jay\Our School\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\jay\Our School\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\jay\Our School\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\jay\Our School\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\jay\Our School\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\jay\Our School\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\jay\Our School\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\jay\Our School\bin\roslyn\Microsoft.Managed.Core.targets
+C:\jay\Our School\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\jay\Our School\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\jay\Our School\bin\roslyn\System.AppContext.dll
+C:\jay\Our School\bin\roslyn\System.Collections.Immutable.dll
+C:\jay\Our School\bin\roslyn\System.Console.dll
+C:\jay\Our School\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\jay\Our School\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\jay\Our School\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\jay\Our School\bin\roslyn\System.Globalization.Calendars.dll
+C:\jay\Our School\bin\roslyn\System.IO.Compression.dll
+C:\jay\Our School\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\jay\Our School\bin\roslyn\System.IO.FileSystem.dll
+C:\jay\Our School\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\jay\Our School\bin\roslyn\System.Net.Http.dll
+C:\jay\Our School\bin\roslyn\System.Net.Sockets.dll
+C:\jay\Our School\bin\roslyn\System.Reflection.Metadata.dll
+C:\jay\Our School\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\jay\Our School\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\jay\Our School\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\jay\Our School\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\jay\Our School\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\jay\Our School\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\jay\Our School\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\jay\Our School\bin\roslyn\System.ValueTuple.dll
+C:\jay\Our School\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\jay\Our School\bin\roslyn\System.Xml.XmlDocument.dll
+C:\jay\Our School\bin\roslyn\System.Xml.XPath.dll
+C:\jay\Our School\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\jay\Our School\bin\roslyn\vbc.exe
+C:\jay\Our School\bin\roslyn\vbc.exe.config
+C:\jay\Our School\bin\roslyn\vbc.rsp
+C:\jay\Our School\bin\roslyn\VBCSCompiler.exe
+C:\jay\Our School\bin\roslyn\VBCSCompiler.exe.config
+C:\jay\Our School\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\jay\Our School\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\jay\Our School\obj\Debug\Our School.csproj.AssemblyReference.cache
+C:\jay\Our School\obj\Debug\Our School.csproj.CoreCompileInputs.cache
+C:\jay\Our School\obj\Debug\Our School.csproj.CopyComplete
+C:\jay\Our School\obj\Debug\Our School.dll
+C:\jay\Our School\obj\Debug\Our School.pdb
+C:\JayD\Our School\Our School\bin\Our School.dll.config
+C:\JayD\Our School\Our School\bin\Our School.dll
+C:\JayD\Our School\Our School\bin\Our School.pdb
+C:\JayD\Our School\Our School\bin\roslyn\csc.exe
+C:\JayD\Our School\Our School\bin\roslyn\csc.exe.config
+C:\JayD\Our School\Our School\bin\roslyn\csc.rsp
+C:\JayD\Our School\Our School\bin\roslyn\csi.exe
+C:\JayD\Our School\Our School\bin\roslyn\csi.exe.config
+C:\JayD\Our School\Our School\bin\roslyn\csi.rsp
+C:\JayD\Our School\Our School\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\JayD\Our School\Our School\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\JayD\Our School\Our School\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\JayD\Our School\Our School\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\JayD\Our School\Our School\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\JayD\Our School\Our School\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\JayD\Our School\Our School\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\JayD\Our School\Our School\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\JayD\Our School\Our School\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\JayD\Our School\Our School\bin\roslyn\Microsoft.Managed.Core.targets
+C:\JayD\Our School\Our School\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\JayD\Our School\Our School\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.AppContext.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.Collections.Immutable.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.Console.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.Globalization.Calendars.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.IO.Compression.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.IO.FileSystem.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.Net.Http.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.Net.Sockets.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.Reflection.Metadata.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.ValueTuple.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.Xml.XmlDocument.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.Xml.XPath.dll
+C:\JayD\Our School\Our School\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\JayD\Our School\Our School\bin\roslyn\vbc.exe
+C:\JayD\Our School\Our School\bin\roslyn\vbc.exe.config
+C:\JayD\Our School\Our School\bin\roslyn\vbc.rsp
+C:\JayD\Our School\Our School\bin\roslyn\VBCSCompiler.exe
+C:\JayD\Our School\Our School\bin\roslyn\VBCSCompiler.exe.config
+C:\JayD\Our School\Our School\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\JayD\Our School\Our School\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\JayD\Our School\Our School\obj\Debug\Our School.csproj.AssemblyReference.cache
+C:\JayD\Our School\Our School\obj\Debug\Our School.csproj.CoreCompileInputs.cache
+C:\JayD\Our School\Our School\obj\Debug\Our School.csproj.CopyComplete
+C:\JayD\Our School\Our School\obj\Debug\Our School.dll
+C:\JayD\Our School\Our School\obj\Debug\Our School.pdb
+C:\Users\Admin\Downloads\Our School\bin\Our School.dll.config
+C:\Users\Admin\Downloads\Our School\bin\Our School.dll
+C:\Users\Admin\Downloads\Our School\bin\Our School.pdb
+C:\Users\Admin\Downloads\Our School\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\Our School\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\Our School\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\Our School\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\Our School\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\Our School\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\Our School\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\Our School\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\Our School\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\Our School\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\Our School\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\Our School\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\Our School\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\Our School\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\Our School\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\Our School\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\Our School\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\Our School\obj\Debug\Our School.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Our School\obj\Debug\Our School.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Our School\obj\Debug\Our School.csproj.CopyComplete
+C:\Users\Admin\Downloads\Our School\obj\Debug\Our School.dll
+C:\Users\Admin\Downloads\Our School\obj\Debug\Our School.pdb
